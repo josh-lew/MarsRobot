@@ -28,7 +28,8 @@ I aimed to adhear to the solid principles where possible, notably the Single Res
 
 All functions have successfully been unit tested.
 
-##Getting Started 
+
+## Getting Started 
 
 ### Dependencies 
 
