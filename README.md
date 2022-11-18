@@ -1,7 +1,7 @@
 # MarsRobot
 
 ### Description 
-A robot designed to move on Mars. The robot moves within a specified grid (the first input i.e '5x5' or '35x15' etc. as a string) following a series of instructions (second input).
+A robot designed to move on Mars. The robot moves within a specified grid (the first input - i.e '5x5' or '35x15' etc. taken as a string) following a series of instructions (second input).
 
 The instructions input takes a string containing multiple commands including:
 ```
